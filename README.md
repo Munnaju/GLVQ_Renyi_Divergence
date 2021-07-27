@@ -1,7 +1,7 @@
 # GLVQ_Renyi_Divergence
 The implementation of statistical-based distance measure (Renyi-Alpha Divergence) in Generalized Vector Quantization (GLVQ) algorithm. GLVQ is a popular classification algorithm.
 
-##Pseudo-Code
+##Pseudo-Code ##
 
 * Get labeled data.
 * Intialize prototypes with labels.
@@ -13,7 +13,7 @@ The implementation of statistical-based distance measure (Renyi-Alpha Divergence
 * Finally, update the prototypes.
 * Measure the success of the classification task using metrics such as Confusion matrix, Precision, Recall, F1 score and ROC curve.
 
-##Installation
+##Installation##
 
 * Clone this repository
 * Make sure that _numpy_, _matplotlib_, _Scikit Learn_ are installed in your environment.
