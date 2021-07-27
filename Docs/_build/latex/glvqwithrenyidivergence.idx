@@ -1,0 +1,16 @@
+\indexentry{module@\spxentry{module}!Renyi\_final@\spxentry{Renyi\_final}|hyperpage}{1}
+\indexentry{Renyi\_final@\spxentry{Renyi\_final}!module@\spxentry{module}|hyperpage}{1}
+\indexentry{GLVQ (class in Renyi\_final)@\spxentry{GLVQ}\spxextra{class in Renyi\_final}|hyperpage}{1}
+\indexentry{Renyi\_Divergence() (Renyi\_final.GLVQ method)@\spxentry{Renyi\_Divergence()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{1}
+\indexentry{calculate\_d\_minus() (Renyi\_final.GLVQ method)@\spxentry{calculate\_d\_minus()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{1}
+\indexentry{calculate\_d\_plus() (Renyi\_final.GLVQ method)@\spxentry{calculate\_d\_plus()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{1}
+\indexentry{change\_in\_w\_minus() (Renyi\_final.GLVQ method)@\spxentry{change\_in\_w\_minus()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{2}
+\indexentry{change\_in\_w\_plus() (Renyi\_final.GLVQ method)@\spxentry{change\_in\_w\_plus()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{2}
+\indexentry{create\_data\_prototype() (Renyi\_final.GLVQ method)@\spxentry{create\_data\_prototype()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{2}
+\indexentry{data\_predictor() (Renyi\_final.GLVQ method)@\spxentry{data\_predictor()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{3}
+\indexentry{do\_processing() (Renyi\_final.GLVQ method)@\spxentry{do\_processing()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{3}
+\indexentry{new\_proto\_types (Renyi\_final.GLVQ attribute)@\spxentry{new\_proto\_types}\spxextra{Renyi\_final.GLVQ attribute}|hyperpage}{3}
+\indexentry{normalize\_data() (Renyi\_final.GLVQ method)@\spxentry{normalize\_data()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{3}
+\indexentry{plot() (Renyi\_final.GLVQ method)@\spxentry{plot()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{3}
+\indexentry{prototype\_data\_labels (Renyi\_final.GLVQ attribute)@\spxentry{prototype\_data\_labels}\spxextra{Renyi\_final.GLVQ attribute}|hyperpage}{3}
+\indexentry{sigmoid\_calc() (Renyi\_final.GLVQ method)@\spxentry{sigmoid\_calc()}\spxextra{Renyi\_final.GLVQ method}|hyperpage}{3}

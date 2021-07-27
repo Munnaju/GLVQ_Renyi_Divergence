@@ -1,0 +1,48 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter C
+  \item \spxentry{calculate\_d\_minus()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{1}
+  \item \spxentry{calculate\_d\_plus()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{1}
+  \item \spxentry{change\_in\_w\_minus()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{2}
+  \item \spxentry{change\_in\_w\_plus()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{2}
+  \item \spxentry{create\_data\_prototype()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{2}
+
+  \indexspace
+  \bigletter D
+  \item \spxentry{data\_predictor()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{3}
+  \item \spxentry{do\_processing()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{3}
+
+  \indexspace
+  \bigletter G
+  \item \spxentry{GLVQ}\spxextra{class in Renyi\_final}, \hyperpage{1}
+
+  \indexspace
+  \bigletter M
+  \item \spxentry{module}
+    \subitem \spxentry{Renyi\_final}, \hyperpage{1}
+
+  \indexspace
+  \bigletter N
+  \item \spxentry{new\_proto\_types}\spxextra{Renyi\_final.GLVQ attribute}, \hyperpage{3}
+  \item \spxentry{normalize\_data()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{3}
+
+  \indexspace
+  \bigletter P
+  \item \spxentry{plot()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{3}
+  \item \spxentry{prototype\_data\_labels}\spxextra{Renyi\_final.GLVQ attribute}, \hyperpage{3}
+
+  \indexspace
+  \bigletter R
+  \item \spxentry{Renyi\_Divergence()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{1}
+  \item \spxentry{Renyi\_final}
+    \subitem \spxentry{module}, \hyperpage{1}
+
+  \indexspace
+  \bigletter S
+  \item \spxentry{sigmoid\_calc()}\spxextra{Renyi\_final.GLVQ method}, \hyperpage{3}
+
+\end{sphinxtheindex}
